@@ -1,0 +1,5 @@
+Crie um projeto de aplicação WEB com menu e as seguintes páginas JSP:
+Index.jsp e um menu com links para as páginas:
+  juros-simples.jsp, com o valor do montante, taxa de juros (%) e quantidade de meses informados pelo usuário;
+  juros-compostos.jsp, com o valor do montante (em uma tabela pelos meses), taxa de juros (%) e quantidade de meses informados pelo usuário;
+O menu será feito em jspf.
