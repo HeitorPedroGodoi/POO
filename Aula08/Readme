@@ -1,0 +1,6 @@
+Crie um projeto de aplicação WEB com menu e as seguintes páginas JSP:
+Index.jsp e um menu com links para as páginas:
+  número-primo.jsp, que oferece um formulário para o usuário informar um número e responde na própria página se é um número promo ou, se não for, apresenta os divisores do número informado;
+  fibonacci.jsp, que oferece um formulário para o usuário informar um número e responde com uma lista com os números da série de fibonacci até o índice informado pelo usuário;
+  soma.jsp,  que oferece um formulário para o usuário informar um número e responde com a soma de todos os números entre 1  o número informado pelo úsuario.
+O menu será feito em jspf.
